@@ -1,0 +1,15 @@
+/app/build/appsettings.Development.json
+/app/build/appsettings.json
+/app/build/baselineapp
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/baselineapp.csproj.AssemblyReference.cache
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/baselineapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/baselineapp.AssemblyInfoInputs.cache
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/baselineapp.AssemblyInfo.cs
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/baselineapp.csproj.CoreCompileInputs.cache
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/baselineapp.MvcApplicationPartsAssemblyInfo.cache
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/staticwebassets.build.json
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/staticwebassets.development.json
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/scopedcss/bundle/baselineapp.styles.css
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/baselineapp.dll
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/refint/baselineapp.dll
+/Users/jodyford/Documents/dotnetcore baseline/baselineapp/obj/Release/net6.0/baselineapp.pdb
